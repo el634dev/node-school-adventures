@@ -1,5 +1,5 @@
 # Node School Adventures
-> The NodeSchool site has a series of free tutorials designed to teach JavaScript, Node, Git, etc. You may choose to work through the tutorials on your own or you can attend a NodeSchool workshop where they'll help you through the exercises. I believe NodeSchool workshops are generally free (or at least low cost).The NodeSchool site has a series of free tutorials designed to teach JavaScript, Node, Git, etc.
+> The NodeSchool site has a series of free tutorials designed to teach JavaScript, Node, Git, etc. The NodeSchool site has a series of free tutorials designed to teach JavaScript, Node, Git, etc.
 
 ## Wanna Go in Person?
 > You may choose to work through the tutorials on your own or you can attend a NodeSchool workshop where they'll help you through the exercises. I believe NodeSchool workshops are generally free (or at least low cost).
