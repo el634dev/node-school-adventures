@@ -6,7 +6,7 @@
 
 ## Experience & Langauges
 > It is aassumed the student has no prior knowledge of programming.
-> NodeSchool has also been translated into a number of different languages, 18 I believe
+> NodeSchool has also been translated into a number of different languages, 18 I believe.
 
 ## Setup 
 > In your terminal run `npm install -g javascripting`
